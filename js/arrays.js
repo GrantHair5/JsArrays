@@ -68,3 +68,22 @@ const splitListInTwo = () =>{
     //split list here
 }
 // End Modify Data
+
+
+// Advanced Stuff
+
+const spreadOperator = () =>{
+    //spread list here
+}
+
+const mapListToNewList = () =>{
+    //map list here
+}
+
+const filterListToNewList = () =>{
+    //filter list here
+}
+
+const spliceList = () =>{
+    //splice list here
+}
